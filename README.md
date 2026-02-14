@@ -1,8 +1,6 @@
 # LeafMate (Plant-disease-Detection)
 
-```
-Abstract & Thesis: 
-```
+### Abstract & Thesis: 
 https://drive.google.com/drive/u/0/folders/1qhSqL4GSUGFgeLivwSj4pTfVqiDIMAle
 
 ## Objective: 
