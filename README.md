@@ -1,5 +1,6 @@
 # LeafMate (Plant-disease-Detection)
 
+Abstract & Thesis: https://drive.google.com/drive/u/0/folders/1qhSqL4GSUGFgeLivwSj4pTfVqiDIMAle
 
 ## Objective: 
 To find out leaf diseases in plants in real-time so that farmers can take necessary actions as soon as possible.
